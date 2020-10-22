@@ -3,23 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruyhat elementlari", "Ruyhat elementlari\Ruyhat elementlari.csproj", "{17CFBB6F-3B5D-4793-94DA-E8F8D3933ABC}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17CFBB6F-3B5D-4793-94DA-E8F8D3933ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17CFBB6F-3B5D-4793-94DA-E8F8D3933ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17CFBB6F-3B5D-4793-94DA-E8F8D3933ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17CFBB6F-3B5D-4793-94DA-E8F8D3933ABC}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8C4C00B8-CD22-44E1-8766-E7D309FACE23}
+		SolutionGuid = {996896FE-A8D2-402B-9BF8-2693BAB44ECA}
 	EndGlobalSection
 EndGlobal
